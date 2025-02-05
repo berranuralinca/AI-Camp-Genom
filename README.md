@@ -1,5 +1,6 @@
 Bu repo Python 3.12.6 kullanilarak yazilmistir. 
 <hr>
+
 Yapay zeka egitimlerinde ogrendiklerimi pekistirmek amaciyla olusturuldu.
 Bu repo da kullanilan kutuphaneler:
 - Numpy 2.2.2
