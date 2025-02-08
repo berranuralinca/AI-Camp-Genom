@@ -1,0 +1,9 @@
+bu dataset kullanilmistir
+
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("alexday11/harry-potter-cast-face-recognition")
+
+print("Path to dataset files:", path)
